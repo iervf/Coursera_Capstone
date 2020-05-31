@@ -20,3 +20,11 @@ For the Toronto neighborhood data, a Wikipedia page exists that has all the info
 Once the data is in a structured format, you can replicate the analysis that we did to the New York City dataset to explore and cluster the neighborhoods in the city of Toronto.
 
 Your submission will be a link to your Jupyter Notebook on your Github repository.
+
+
+## Week 4
+
+For this week, you will required to submit the following:
+
+A description of the problem and a discussion of the background.
+A description of the data and how it will be used to solve the problem. 
